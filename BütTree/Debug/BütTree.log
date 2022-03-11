@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: Ara dizin (Debug\) başka bir projeden (BütTree.vcxproj) paylaşılan dosyalar içeriyor. Bu, hatalı temizleme ve yeniden oluşturma davranışına neden olabilir.
+  BütBinaryTree.cpp
+C:\Users\TULPAR\source\repos\VeriYapıları1\BütTree\BütBinaryTree.cpp(11,2): warning C4091: 'typedef ': hiçbir değişken bildirimi yapılmadığında 'node' solunda yoksayılır
+C:\Users\TULPAR\source\repos\VeriYapıları1\BütTree\BütBinaryTree.cpp(125): warning C4715: 'sil': tüm denetim yolları değer döndürmez
+  BütTree.vcxproj -> C:\Users\TULPAR\source\repos\VeriYapıları1\Debug\BütBinaryTree.exe
